@@ -1,6 +1,6 @@
 # [DIO](https://www.dio.me/) | BOOTCAMP ANÁLISE DE DADOS
 ## DESAFIOS PROGRAMAÇÃO EM PYTHON  
-## ATIVIDADE 01 
+## ATIVIDADE 01
 ## Criar um sistema bancário com as seguintes operações depositar, sacar e imprimir o extrato.
     
 ## ✍️ REQUISITOS 
@@ -13,9 +13,9 @@
 
 ## 🔗 Links para os códigos fontes das atividades 
 
-| EXERCÍCIO | LINK |
-|-------|---------|
-| Aula 01 | [Fonte](https://github.com/anderson-si/dio-dados/blob/main/sistema_bancario.py) |
+| MÓDULO | EXERCÍCIO | LINK |
+|--------|-------|---------|
+|Sintaxe Básica em Python | Atividade 01 | [Fonte](https://github.com/anderson-si/dio-dados/blob/main/sistema_bancario.py) |
 
 
 

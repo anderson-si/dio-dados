@@ -1,4 +1,6 @@
 
+# SOLUÇÃO ATIVIDADE 1 - MÓDULO SINTAXE BÁSICA EM PYTHON
+
 SALDO_DA_CONTA = 0
 arrayQtdDeposito = []
 arrayQtdSaque = []
