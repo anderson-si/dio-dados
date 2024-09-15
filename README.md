@@ -1,21 +1,28 @@
-# DIO | Curso de Analise de Dados
+# [DIO](https://www.dio.me/) | BOOTCAMP ANÁLISE DE DADOS
+## DESAFIOS PROGRAMAÇÃO EM PYTHON  
+## ATIVIDADE 01 
+## Criar um sistema bancário com as seguintes operações depositar, sacar e imprimir o extrato.
+    
+## ✍️ REQUISITOS 
+ - [x] O sistema deve permitir sacar caso tenha saldo
+ - [x] O sistema deve permitir depositar apenas valores positos 
+ - [x] O sistema deve perimitir imprimir o extrato com valores que foram depositados, sacados e saldo atual
+ - [x] O sistema deve permitir apnas 3 saques diário 
+ - [x] Cada saque tem um limite máximo de R$ 500,00 
+ - [x] Não deve permitir sacar caso o saque deixe o saldo negativo
 
-Repositório criando para armazenar arquivos criados durante o curso de Git e GitHub da Digital Inovation One [DIO](https://www.dio.me/) 
+## 🔗 Links para os códigos fontes das atividades 
 
-## 📒Documentação
- - [Documentação do Git](https://git-scm.com/doc) 
- - [Documentação do GitHut](https://docs.github.com/pt) 
-
-## 💻 Resumos das aulas
-
-| Aulas | Resumos |
+| EXERCÍCIO | LINK |
 |-------|---------|
-| Aula 01 | [Resumo]() |
-| Aula 02 | [Resumo]() |
+| Aula 01 | [Fonte]() |
 
-```
-git init 
-```
 
-## 🔍 Referências 
-- Digital Innovation One.
+
+## 🔎 Referências 
+
+- [Digiral Inovation One](https://www.dio.me/)
+- [Documentação Python](https://docs.python.org/pt-br/3/tutorial/)
+- [Documentação do Git](https://git-scm.com/doc) 
+- [Documentação do GitHut](https://docs.github.com/pt) 
+
