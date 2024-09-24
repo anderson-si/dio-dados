@@ -12,7 +12,7 @@
  - [x] Não deve permitir sacar caso o saque deixe o saldo negativo
 
 ## ATIVIDADE 02
-## Otimizar o sistema bancário desenvolvido na atividade 01.
+## Otimização do sistema bancário desenvolvido na atividade 01.
     
 ## ✍️ REQUISITOS 
  -[x] Criar função para cadastrar clinte (nome, data_de_nascimento, cpf e endereço, sendo uma string logradouro, nro, bairro, cidade/sigla estado) 
@@ -32,7 +32,7 @@
 | MÓDULO | EXERCÍCIO | LINK |
 |--------|-------|---------|
 |Sintaxe Básica em Python | Atividade 01 | [Fonte](https://github.com/anderson-si/dio-dados/blob/main/sistema_bancario.py) |
-|Sintaxe Básica em Python | Atividade 02 | [Fonte]() |
+|Sintaxe Básica em Python | Atividade 02 | [Fonte](https://github.com/anderson-si/dio-dados/blob/main/sistema_bancario_otimizado_v1.py) |
 
 
 
