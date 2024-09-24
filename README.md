@@ -32,7 +32,7 @@
 | MÓDULO | EXERCÍCIO | LINK |
 |--------|-------|---------|
 |Sintaxe Básica em Python | Atividade 01 | [Fonte](https://github.com/anderson-si/dio-dados/blob/main/sistema_bancario.py) |
-|Sintaxe Básica em Python | Atividade 02 | [Fonte](https://github.com/anderson-si/dio-dados/blob/main/sistema_bancario_otimizado_v1.py) |
+|Trabalhando com Coleções em Python | Atividade 02 | [Fonte](https://github.com/anderson-si/dio-dados/blob/main/sistema_bancario_otimizado_v1.py) |
 
 
 
