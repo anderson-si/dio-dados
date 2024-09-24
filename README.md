@@ -11,11 +11,28 @@
  - [x] Cada saque tem um limite máximo de R$ 500,00 
  - [x] Não deve permitir sacar caso o saque deixe o saldo negativo
 
+## ATIVIDADE 02
+## Otimizar o sistema bancário desenvolvido na atividade 01.
+    
+## ✍️ REQUISITOS 
+ -[x] Criar função para cadastrar clinte (nome, data_de_nascimento, cpf e endereço, sendo uma string logradouro, nro, bairro, cidade/sigla estado) 
+ -[x] O sistema não deve armazer 2 usuários com o mesmo cpf
+ -[x] Criar função para cadastrar conta bancária (agência, num_conta e cliente) 
+ -[x] O número da conta deve ser equencial iniciando em 1, 
+ -[x] O número da agência é fixo começando em 0001 
+ -[x] O usuário pode ter mais de uma conta mas uma conta só pode ser de um único usuário
+ -[x] A função saque deve receber os argumentos apenas por nome (keyword only)
+ -[x] A função deposito deve receber os argumentos apenas por posição (positional only)
+ -[x] A função extrato deve receber os argumentos por posição e nome (positional only e keyword only)
+ -[x] O sistema deve permitir listar contas
+
+ 
 ## 🔗 Links para os códigos fontes das atividades 
 
 | MÓDULO | EXERCÍCIO | LINK |
 |--------|-------|---------|
 |Sintaxe Básica em Python | Atividade 01 | [Fonte](https://github.com/anderson-si/dio-dados/blob/main/sistema_bancario.py) |
+|Sintaxe Básica em Python | Atividade 02 | [Fonte]() |
 
 
 
