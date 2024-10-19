@@ -26,6 +26,13 @@
  - [x] A função extrato deve receber os argumentos por posição e nome (positional only e keyword only)
  - [x] O sistema deve permitir listar contas
 
+
+## DESAFIO DE PROJETO
+## Otimização do sistema bancário desenvolvido na atividade 02.
+    
+## ✍️ REQUISITOS 
+ - [x] Usar o código fonte desenvolvido na atividade 2
+ - [x] Modelando o sistema banário em POO com Python
  
 ## 🔗 Links para os códigos fontes das atividades 
 
@@ -33,6 +40,7 @@
 |--------|-------|---------|
 |Sintaxe Básica em Python | Atividade 01 | [Fonte](https://github.com/anderson-si/dio-dados/blob/main/sistema_bancario.py) |
 |Trabalhando com Coleções em Python | Atividade 02 | [Fonte](https://github.com/anderson-si/dio-dados/blob/main/sistema_bancario_otimizado_v1.py) |
+|Programação Orietada a Objetos | Desafio de Projeto| [Fonte](https://github.com/anderson-si/dio-dados/blob/main/sistema_bancario_otimizado_v2.py) |
 
 
 
