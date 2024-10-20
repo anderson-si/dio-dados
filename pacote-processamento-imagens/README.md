@@ -6,21 +6,24 @@ Este pacote foi desenvolvido apenas como atividade prática da aula "criando pac
 Este pacote contem metodos para leitura, transformação e Escrita de Imagens:
 
 Estrutura do pacote-processamento-de-imagens:
-processamento-imagem
-    Processamento:
-        * junção de imagens
-        * Similaridade da imagem 
-        * Redimensionar imagem
-    utils:   
-        * Leitura da imagem
-        * Escrita da imgam
-        * Plotagem da imagem
+processamento-imagem </br>
 
+### Processamento:
+* Encontrar diferença das imagens
+* Transformação das imagnes
+* Redimensionar imagem </br>
+
+### utils:   
+* Leitura da imagem
+* Escrita da imgam
+* Plot da imagem
+* plot Result
+* Plot histogram </br>
 
 Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/installation/) para instalar o pacote-processamento-de-imagens 
 
 ~~~Bash
-pip install pacote-processamento-de-imagens    
+pip install processamento-imagem
 ~~~
 
 ## 🧩 Exemplo de como importar os módulos para seu projeto
